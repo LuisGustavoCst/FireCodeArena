@@ -27,6 +27,6 @@ let media = soma / notas.length
 
 console.log('Maior nota:', maior)
 console.log('Menor nota:', menor)
-console.log('Média da turma:', media(2))
+console.log('Média da turma:', media)
 console.log('Quantidade de aprovados:', aprovados)
 console.log('Quantidade de reprovados:', reprovados)
