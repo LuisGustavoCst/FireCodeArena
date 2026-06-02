@@ -14,4 +14,4 @@ for (let i = 0; i < notas.length; i++) soma += notas[i]
 let media = soma / notas.length
 let situacao = media >= 7 ? 'Aprovado' : 'Reprovado'
 
-console.log(`Média: ${media.toFixed(2)} - ${situacao}`)
+console.log(`Média: ${media} - ${situacao}`)
